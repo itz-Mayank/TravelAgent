@@ -1,0 +1,13 @@
+pydantic-ai
+fastapi
+uvicorn
+sqlalchemy
+python-dotenv
+aiofiles
+# openai
+# pydantic-ai-slim[openai]
+google-generativeai
+pydantic-ai-slim[google]
+
+# Frontend
+# npm install axios lucide-react
