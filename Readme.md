@@ -1,8 +1,8 @@
-# Sorsiri AI Travel Copilot
+# AI Travel Copilot
 
 ## Overview
 
-Sorsiri AI Travel Copilot is an AI-powered travel planning workspace built using:
+AI Travel Copilot is an AI-powered travel planning workspace built using:
 
 - PydanticAI
 - AG-UI inspired workflow architecture
